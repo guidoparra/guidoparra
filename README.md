@@ -1,5 +1,7 @@
 Hola, soy Guido 👋
 Analista de Datos y Operaciones | Estudiante de Informática
+
+
 Mi día a día consiste en transformar datos en decisiones y procesos repetitivos en flujos automatizados. Mi experiencia se centra en el desarrollo con Python, la gestión de bases de datos SQL, y la automatización de procesos para crear soluciones eficientes y escalables. Actualmente, profundizo mi formación en algoritmos de Machine Learning e IA, manteniendo un stack de herramientas en constante evolución.
 
 Tecnologías y Habilidades:
