@@ -6,17 +6,13 @@ Mi día a día consiste en transformar datos en decisiones y procesos repetitivo
 
 Tecnologías y Habilidades:
 
-Lenguajes & Desarrollo: Python (Pandas, NumPy, Scikit-learn), Apex Oracle
+Lenguajes & Desarrollo: Python (Pandas, NumPy, Scikit-learn), C++
 
-Datos & BI: SQL, ETL/ELT, Análisis Exploratorio (EDA), PowerBI
+Datos & BI: SQL, ETL/ELT, Análisis Exploratorio (EDA), PowerBI, Apex Oracle
 
-Automatización & DevOps: Scripting, APIs, Git, Docker, Linux
+Automatización & DevOps: Scripting, Postman, Git, Docker, Linux
 
 Machine Learning & Cloud: Algoritmos ML, MLOps, IA, AWS/GCP (en aprendizaje)
-
-Formación:
-
-🎓 Tecnicatura Universitaria en Informática (en curso)
 
 🔍 Autodidacta por vocación, siempre actualizado con las últimas tendencias
 
