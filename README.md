@@ -18,4 +18,4 @@ Machine Learning & Cloud: Algoritmos ML, MLOps, IA, AWS/GCP (en aprendizaje)
 
 Más que un conjunto de habilidades, me defino como un aprendiz de por vida. Disfruto del proceso de dominar nuevas tecnologías y me mantengo en constante actualización, creyendo que el aprendizaje es el núcleo de la adaptación en la industria tech.
 
-✨ Busco colaborar en proyectos desafiantes donde pueda aportar soluciones técnicas y seguir creciendo. Creo en la mejora continua y en que la tecnología es una herramienta poderosa para resolver problemas reales.
+Busco colaborar en proyectos desafiantes donde pueda aportar soluciones técnicas y seguir creciendo. Creo en la mejora continua y en que la tecnología es una herramienta poderosa para resolver problemas reales.
