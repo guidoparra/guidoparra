@@ -1,21 +1,23 @@
-Hola, soy Guido 👋
-Analista de Datos y Operaciones | Estudiante de Informática
+## Hola, soy Guido 👋
 
+**Data Analyst & Developer** · SQL · Python · Power BI · Automatización y APIs · IA aplicada
 
-Mi día a día consiste en transformar datos en decisiones y procesos repetitivos en flujos automatizados. Mi experiencia se centra en el desarrollo con Python, la gestión de bases de datos SQL, y la automatización de procesos para crear soluciones eficientes y escalables. Actualmente, profundizo mi formación en algoritmos de Machine Learning e IA, manteniendo un stack de herramientas en constante evolución.
+Convierto datos dispersos en información para decidir, y tareas manuales en procesos automáticos.
 
-Tecnologías y Habilidades:
+### Qué aporto
 
-Lenguajes & Desarrollo: Python (Pandas, NumPy, Scikit-learn), C++
+Soy un entusiasta de la tecnología y la IA que disfruta resolver problemas reales con ellas. En una compañía, eso se traduce en ordenar los datos para que se tomen mejores decisiones, automatizar lo que hoy consume horas de trabajo manual y anticipar fallas antes de que afecten al negocio. Combino la mirada del negocio con la capacidad de construir la solución, y uso la IA como aliada para llegar más rápido y más lejos. Me motiva trabajar en equipos que quieren hacer las cosas mejor, y siempre estoy buscando la próxima herramienta que lo haga posible.
 
-Datos & BI: SQL, ETL/ELT, Análisis Exploratorio (EDA), PowerBI, Apex Oracle
+### Stack
 
-Automatización & DevOps: Scripting, Postman, Git, Docker, Linux
+`Python` `Pandas` `NumPy` `Scikit-learn` `SQL` `Oracle` `PostgreSQL` `Oracle APEX` `Power BI` `Postman` `Git` `Docker` `Linux` `C++` `Google Cloud`
 
-Machine Learning & Cloud: Algoritmos ML, MLOps, IA, AWS/GCP (en aprendizaje)
+### Proyectos destacados
 
-🔍 Autodidacta por vocación, siempre actualizado con las últimas tendencias
+- 🍄 **[Micelia](https://guidoparra.github.io/micelia/)**: globo 3D open source para explorar el reino Fungi con datos científicos.
+- 🤖 **[Datos para fine-tuning de LLMs](https://github.com/guidoparra/Preparaci-n-de-datos-y-an-lisis-para-fine-tuning-de-chat-model-con-OpenAI)**: validación de JSONL y estimación de costos con tiktoken.
+- 🛰️ **Cobertura del ARSAT-2**: mapa interactivo con GeoPandas y Folium.
 
-Más que un conjunto de habilidades, me defino como un aprendiz de por vida. Disfruto del proceso de dominar nuevas tecnologías y me mantengo en constante actualización, creyendo que el aprendizaje es el núcleo de la adaptación en la industria tech.
+📜 Certificado en Google Cloud Data Analytics · Formándome en Machine Learning
 
-Busco colaborar en proyectos desafiantes donde pueda aportar soluciones técnicas y seguir creciendo. Creo en la mejora continua y en que la tecnología es una herramienta poderosa para resolver problemas reales.
+📫 [LinkedIn](https://www.linkedin.com/in/guido-parra-97b83b127/)
